@@ -1,8 +1,8 @@
 # Elder Care Web Application
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ3002-Elder-Care )
-![GitHub repo size](https://img.shields.io/github/repo-size/bbobohang/CZ3002)
-![GitHub language count](https://img.shields.io/github/languages/count/bbobohang/CZ3002)
-![GitHub last commit](https://img.shields.io/github/last-commit/bbobohang/CZ3002)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ3002-Elder-Care)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CZ3002-Elder-Care)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CZ3002-Elder-Care)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CZ3002-Elder-Care)
 
 Elder Care is an web application built for NTU CZ3002 course with the intention to provide elderly with personal care solution with technology to allow them to age and recover gracefully.
 
