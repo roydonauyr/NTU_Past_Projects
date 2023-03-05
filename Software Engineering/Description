@@ -1,0 +1,69 @@
+This folder contains projects from Software Engineering CZ2006 and Advanced Software Engineering CZ3002
+
+CZ2006: Smart Carpark Application
+About The Project
+
+
+Flutter application
+
+Carpark Companion is an application which aims to help users find the suitable carparks based on their needs.
+
+Unique features of the application:
+
+Provides live update about the availability of carparks
+Allows user to filter carpark types based on their needs
+Provides users with a Lot Rememberer function to help forgetful users remember where they parked their vehicle
+Forum for discussions about carparks
+Watch the demostration of the application here!
+
+Built With:
+This section contains the dependecies that are being used in this project
+
+google_map_flutter
+geolocator
+(back to top)
+
+Getting Started
+Clone the repo into local device
+
+Prerequisites
+In order to lauch the applications, these are the things that are needed to be installed
+
+Android Studio
+Flutter
+VSC
+Usage
+Landing Page
+Landing Page allows user to view carparks within the selected location. Users are able to find carparks by dragging the google map or entering their desired location. They will be able to increase the radius of search using the distance slider at the slide.
+
+
+
+Filters
+Filters allow the users to filter for carparks based on the following:
+
+Car park type
+Parking system type
+Free parking
+Short term parking
+Night parking
+
+
+Details of Carpark
+Shows the details of the carparks including the live availability of parking lots.
+
+ 
+
+Authentication
+Allows user to Login/Register for an account
+
+ 
+
+Contact
+Low Lee Hang- @bbobohang - bbobohang@gmail.com
+Roydon Au - @roydonauyr
+Rachel Chua - @rachel45605
+Chloe Heng - @cheenngg
+Chua Gim Aik - @AikGim
+Michelle Lam - @michellelsa
+
+Project Link: https://github.com/bbobohang/CarparkCompanion
