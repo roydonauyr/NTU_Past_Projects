@@ -1,4 +1,28 @@
-# 1. BC2406 Data Analytics
+# 1. CZ1115 Datascience and AI
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/DataScience-Project)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/DataScience-Project)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/DataScience-Project)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/DataScience-Project)
+
+# DataScience-Project
+Running machine learning to predict revenue of movies
+
+Overall Project
+
+Section 1: Imports and Data Extraction
+
+Section 2: Data Cleaning and Exploratory Analysis
+
+Section 3: Data Preprocessing
+
+Section 4: Machine Learning Models
+
+Section 5: Fine-tuning of Models
+
+Section 6: Data insights on Revenue
+
+# 2. BC2406 Data Analytics
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP
 )
 ![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP
@@ -53,7 +77,7 @@ consumption’s strength as a predictor increases over time.
 
 **FULL REPORT CAN BE FOUND IN PDF**
 
-# 2. BC2407  Advanced Data Analytics 
+# 3. BC2407  Advanced Data Analytics 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/PROJECT-BC2407-Advanced-Analytics
 )
 ![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/PROJECT-BC2407-Advanced-Analytics
@@ -109,7 +133,7 @@ To further help hospitals customise a solution for improving LOS, we use Variabl
 ### Patient Dashboard
 ![image](https://user-images.githubusercontent.com/64303732/161944439-c06fea0f-9487-49fc-a423-e70314de08d6.png)
 
-# 3. CZ3005 AI Project
+# 4. CZ3005 AI Project
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/AI_CZ3005_Project1
 )
@@ -123,28 +147,4 @@ To further help hospitals customise a solution for improving LOS, we use Variabl
 Search Algorithms
 
 To RUN: cd AI_CZ3005_Project1-main python main.py
-
-# 4. CZ1115 Datascience and AI
-
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/DataScience-Project)
-![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/DataScience-Project)
-![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/DataScience-Project)
-![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/DataScience-Project)
-
-# DataScience-Project
-Running machine learning to predict revenue of movies
-
-Overall Project
-
-Section 1: Imports and Data Extraction
-
-Section 2: Data Cleaning and Exploratory Analysis
-
-Section 3: Data Preprocessing
-
-Section 4: Machine Learning Models
-
-Section 5: Fine-tuning of Models
-
-Section 6: Data insights on Revenue
 
