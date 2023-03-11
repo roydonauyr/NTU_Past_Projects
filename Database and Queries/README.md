@@ -84,26 +84,37 @@ operators are chosen among other alternatives.
 
 Our project is split into four main python files:
 1) Project.py
+
 This is the main file that our application uses that invokes all the necessary procedures
 from the other three files.
+
 2) Interface.py
 This file is incharge of the display of the optimal query plan together with annotations on
 the plan. This file also contains the logic for how the user interacts with the program. (e.g.
 Handling errors from user inputs)
+
 3) Preprocessing.py
 The main responsibilities of these file are:
+
 1. To establish connection with the database tables
 2. Obtain Optimal QEP
 3. Obtain AQPs
 4. Make preparations before passing over to annotations to annotate the Optimal QEP.
+
+
 4) Annotation.py
+
 This file is in charge of annotating respective tree nodes in the optimal QEP.
-1.2 Libraries Used
+
+**Libraries Used:**
 The libraries that are required to run this project are:
+
 ● Psycopg2, which is a library that is used as a PostgreSQL database adapter for Python.
+
 ● Tkinter, which is a built-in python library that is made for building simple GUI for
 application in python
-1.3 Instructions
+
+### Running Instructions
 a. Ensure python version is 3.8 (For 3.10 version and above psycopg2 wont run and an error
 will show: ModuleNotFoundError: No module named 'psycopg2')
 b. Pip install psycopg2 (If that doesn’t work, use pip install psycopg2-binary)
