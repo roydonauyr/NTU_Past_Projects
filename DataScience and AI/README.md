@@ -1,5 +1,12 @@
 # 1. BC2406 Data Analytics
-
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP
+)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP
+)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP
+)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP
+)
 A project on how the renewable energy could be useful in predicting/improving GDP and growth
 
 # Executive summary
@@ -43,7 +50,7 @@ consumption’s strength as a predictor increases over time.
 ## CART Pruned tree
 ![image](https://user-images.githubusercontent.com/44868878/178106191-b83c2971-747b-4ba4-a0ac-b8bcd60c65b0.png)
 
-## FULL REPORT CAN BE FOUND IN PDF
+**FULL REPORT CAN BE FOUND IN PDF**
 
 # 2. BC2407  Advanced Data Analytics 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/PROJECT-BC2407-Advanced-Analytics
