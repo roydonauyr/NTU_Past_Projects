@@ -4,13 +4,8 @@
 
 This repo contains my past ntu course projects
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 | Course | Project | Folder |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | CZ1115 Datascience and AI | Movie revenue prediction | Datascience and AI |
 | BC2406 Data Analytics | Predict GDP based on renewable energy | Datascience and AI |
 | BC2407 Advanced Data Analytics | Predict Length of hospital stay and important factors | Datascience and AI |
