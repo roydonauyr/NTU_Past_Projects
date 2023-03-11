@@ -28,7 +28,7 @@ To minimise the spread of this disease globally, it is critical to identify the 
 Based on the aforementioned reasons, it is clear that the effectiveness of relational and non-relational databases will vary depending on the circumstances. In the case of WHO, non-relational databases will be a more suitable option for them. This is mainly due to their need to update their database of information quickly and with large amounts at any one time. Ultimately, in the context of COVID-19 related data, the use of non-relational databases is also highly recommended. This is due to its additional ability to handle and track geospatial data. Overall, our team would recommend the use of non-relational databases to WHO, provided they are focused on recording data related to the recent global pandemic – COVID-19.
 
 
-# CZ4031-Advanced-Database
+# 2. CZ4031-Advanced-Database
 
 ## Project 1:
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ4031-Advanced-Database-Project-1)
