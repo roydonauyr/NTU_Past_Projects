@@ -1,39 +1,9 @@
-# CZ3002 Elder Care Web Application
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ3002-Elder-Care)
-![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CZ3002-Elder-Care)
-![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CZ3002-Elder-Care)
-![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CZ3002-Elder-Care)
-
-Elder Care is an web application built for NTU CZ3002 course with the intention to provide elderly with personal care solution with technology to allow them to age and recover gracefully.
-
-Check out the live demo [here.](https://elder-care-ntu.herokuapp.com/)
-## Key Features
-- Embedded Tableau Dashboard
-- Medication Booking 
-- [Appointment Calendar](https://www.npmjs.com/package/react-big-calendar)
-- [Symptoms and Specialist Prediction](https://apimedic.com/)
-
-## Getting Started
-Download or clone project from github:
-```
-$ git clone https://github.com/bbobohang/CZ3002-Elder-Care.git
-```
-
-## Install - Local
-
-Frontend:
-```
-$ cd client
-$ npm install
-$ npm run start
-```
-Backend:
-```
-$ npm install
-$ npm run server
-```
-
 # CZ2006 Software Engineering
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CarparkCompanion)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CarparkCompanion)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CarparkCompanion)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CarparkCompanion)
+
 
 <div id="top"></div>
 
@@ -124,9 +94,6 @@ Allows user to Login/Register for an account
 </p>
 
 
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -141,3 +108,38 @@ Michelle Lam - [@michellelsa](https://github.com/michellelsa)<br>
 Project Link: [https://github.com/bbobohang/CarparkCompanion](https://github.com/bbobohang/CarparkCompanion)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+# CZ3002 Elder Care Web Application
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ3002-Elder-Care)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CZ3002-Elder-Care)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CZ3002-Elder-Care)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CZ3002-Elder-Care)
+
+Elder Care is an web application built for NTU CZ3002 course with the intention to provide elderly with personal care solution with technology to allow them to age and recover gracefully.
+
+Check out the live demo [here.](https://elder-care-ntu.herokuapp.com/)
+## Key Features
+- Embedded Tableau Dashboard
+- Medication Booking 
+- [Appointment Calendar](https://www.npmjs.com/package/react-big-calendar)
+- [Symptoms and Specialist Prediction](https://apimedic.com/)
+
+## Getting Started
+Download or clone project from github:
+```
+$ git clone https://github.com/bbobohang/CZ3002-Elder-Care.git
+```
+
+## Install - Local
+
+Frontend:
+```
+$ cd client
+$ npm install
+$ npm run start
+```
+Backend:
+```
+$ npm install
+$ npm run server
+```
