@@ -89,17 +89,19 @@ This is the main file that our application uses that invokes all the necessary p
 from the other three files.
 
 2) Interface.py
+
 This file is incharge of the display of the optimal query plan together with annotations on
 the plan. This file also contains the logic for how the user interacts with the program. (e.g.
 Handling errors from user inputs)
 
 3) Preprocessing.py
+
 The main responsibilities of these file are:
 
-1. To establish connection with the database tables
-2. Obtain Optimal QEP
-3. Obtain AQPs
-4. Make preparations before passing over to annotations to annotate the Optimal QEP.
+● To establish connection with the database tables
+● Obtain Optimal QEP
+● Obtain AQPs
+● Make preparations before passing over to annotations to annotate the Optimal QEP.
 
 
 4) Annotation.py
