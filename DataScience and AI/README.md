@@ -1,4 +1,4 @@
-# BC2407  Advanced Data Analytics 
+# 1. BC2407  Advanced Data Analytics 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/PROJECT-BC2407-Advanced-Analytics
 )
 ![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/PROJECT-BC2407-Advanced-Analytics
@@ -54,7 +54,7 @@ To further help hospitals customise a solution for improving LOS, we use Variabl
 ### Patient Dashboard
 ![image](https://user-images.githubusercontent.com/64303732/161944439-c06fea0f-9487-49fc-a423-e70314de08d6.png)
 
-# CZ3005 AI Project
+# 2. CZ3005 AI Project
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/AI_CZ3005_Project1
 )
