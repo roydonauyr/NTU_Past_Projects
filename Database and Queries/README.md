@@ -99,8 +99,11 @@ Handling errors from user inputs)
 The main responsibilities of these file are:
 
 ● To establish connection with the database tables
+
 ● Obtain Optimal QEP
+
 ● Obtain AQPs
+
 ● Make preparations before passing over to annotations to annotate the Optimal QEP.
 
 
