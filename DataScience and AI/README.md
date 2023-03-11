@@ -7,7 +7,8 @@
 )
 ![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/-Analytics-Renewable-Energy-impacts-GDP
 )
-A project on how the renewable energy could be useful in predicting/improving GDP and growth
+
+**A project on how the renewable energy could be useful in predicting/improving GDP and growth**
 
 # Executive summary
 Studies on Environmental Factors:
