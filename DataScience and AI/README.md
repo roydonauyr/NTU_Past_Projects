@@ -144,9 +144,15 @@ To further help hospitals customise a solution for improving LOS, we use Variabl
 ![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/AI_CZ3005_Project1
 )
 
+Project 1:
+
 Search Algorithms
 
 To RUN: cd AI_CZ3005_Project1-main python main.py
+
+Project 2:
+
+Coding logic in prolog
 
 # 5. CZ4003 Computer Vision
 
