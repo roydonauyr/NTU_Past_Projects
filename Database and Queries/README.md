@@ -26,3 +26,86 @@ One main health-related aspect WHO is focusing on in recent times, is COVID-19 d
 
 To minimise the spread of this disease globally, it is critical to identify the exact location of individuals tested positive for COVID-19 and to track their movements. By relying on non-relational databases, WHO can offer additional valuable geospatial insights during this pandemic. Tracking geospatial data will be helpful in assisting countries to respond quickly in the midst of this pandemic. However, one critical aspect WHO should be aware of when leveraging on non-relational databases is its importing method and the resulting differences. A non-relational database with the use of MongoDB Compass and noSQL booster platform, gives WHO 2 different importing options. Each option will result in a different dataset.
 Based on the aforementioned reasons, it is clear that the effectiveness of relational and non-relational databases will vary depending on the circumstances. In the case of WHO, non-relational databases will be a more suitable option for them. This is mainly due to their need to update their database of information quickly and with large amounts at any one time. Ultimately, in the context of COVID-19 related data, the use of non-relational databases is also highly recommended. This is due to its additional ability to handle and track geospatial data. Overall, our team would recommend the use of non-relational databases to WHO, provided they are focused on recording data related to the recent global pandemic – COVID-19.
+
+
+# CZ4031-Advanced-Database
+
+## Project 1:
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ4031-Advanced-Database-Project)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CZ4031-Advanced-Database-Project)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CZ4031-Advanced-Database-Project)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CZ4031-Advanced-Database-Project)
+
+The aim of this project is to implement a B+ Tree in C++ which supports searching (both search
+query and range queries), insertion and deletion operations.
+
+Our implementation consists of the following classes:
+1. BlockManager: Manages the creation and deletion of new blocks. Handles all the logic
+related to blocks.
+2. Record class: Holds the fields of a record.
+3. B+ Tree: Handles the logic of search, insertion and deletion operations of nodes in the
+tree.
+4. Block classes: Consists of B+ tree nodes, recordBlocks and linkedList Blocks
+
+More information can be found in our pdf report.
+
+B+ Tree Structure:
+![image](https://user-images.githubusercontent.com/44868878/224474247-565e913a-e8de-4225-8680-eea90997ac26.png)
+
+### Functions:
+We have 4 vital functions to help us perform the experiments, namely Insert(), Delete(), searchKeys(),
+searchRangeOfKeys(). 
+Details can be found in the pdf report
+
+### Requirements and how to fun
+To install, run a C++ compiler with minimum C++11 support to compile main.cpp, then run the produced binary. Assuming g++, run the following command: g++ main.cpp -O2 -o main
+
+To run: .\main.exe
+
+In the case that some middle output disappears in the terminal (Happened sometimes in vsc terminal, could be due to too many information to print out), do output it out into a text file. That way the full output always comes out correctly. (Use .\main.exe > someTxtFile.txt)
+
+
+## Project 2:
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ4031-Advanced-Database-Project-2)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CZ4031-Advanced-Database-Project-2)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CZ4031-Advanced-Database-Project-2)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CZ4031-Advanced-Database-Project-2)
+
+### Project description:
+
+**Introduction**
+
+In this project, we are tasked with the goal to translate and annotate a given SQL Query by
+obtaining their Optimal QEP and respective AQPs. Using these AQPs, we are able to explain how
+different components of the query are executed by the underlying query processor and why the
+operators are chosen among other alternatives.
+
+**File structure**
+
+Our project is split into four main python files:
+1) Project.py
+This is the main file that our application uses that invokes all the necessary procedures
+from the other three files.
+2) Interface.py
+This file is incharge of the display of the optimal query plan together with annotations on
+the plan. This file also contains the logic for how the user interacts with the program. (e.g.
+Handling errors from user inputs)
+3) Preprocessing.py
+The main responsibilities of these file are:
+1. To establish connection with the database tables
+2. Obtain Optimal QEP
+3. Obtain AQPs
+4. Make preparations before passing over to annotations to annotate the Optimal QEP.
+4) Annotation.py
+This file is in charge of annotating respective tree nodes in the optimal QEP.
+1.2 Libraries Used
+The libraries that are required to run this project are:
+● Psycopg2, which is a library that is used as a PostgreSQL database adapter for Python.
+● Tkinter, which is a built-in python library that is made for building simple GUI for
+application in python
+1.3 Instructions
+a. Ensure python version is 3.8 (For 3.10 version and above psycopg2 wont run and an error
+will show: ModuleNotFoundError: No module named 'psycopg2')
+b. Pip install psycopg2 (If that doesn’t work, use pip install psycopg2-binary)
+c. Change to the correct directory and Run the project.py file
+
