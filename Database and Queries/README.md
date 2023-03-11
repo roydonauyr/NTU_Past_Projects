@@ -31,10 +31,10 @@ Based on the aforementioned reasons, it is clear that the effectiveness of relat
 # CZ4031-Advanced-Database
 
 ## Project 1:
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ4031-Advanced-Database-Project)
-![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CZ4031-Advanced-Database-Project)
-![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CZ4031-Advanced-Database-Project)
-![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CZ4031-Advanced-Database-Project)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ4031-Advanced-Database-Project-1)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CZ4031-Advanced-Database-Project-1)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CZ4031-Advanced-Database-Project-1)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/CZ4031-Advanced-Database-Project-1)
 
 The aim of this project is to implement a B+ Tree in C++ which supports searching (both search
 query and range queries), insertion and deletion operations.
